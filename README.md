@@ -1,4 +1,3 @@
-
 # Regular Expressions
 
 ## Текущая версия проекта - v0.0.3
